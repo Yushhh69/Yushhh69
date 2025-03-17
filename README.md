@@ -1,6 +1,6 @@
 ## Hi, I'm Aayush🐽
 🧠 Computer Science student at Graphic Era University<br/>
-💻 Proficient in Java, Python, and solving coding puzzles<br/>
+💻 Proficient in Java, Python, C++, HTML and solving coding puzzles<br/>
 🎮 Gamer and avid coder<br/>
 📱 Not a content creator, but u can connect with me on [Insta:https://www.instagram.com/_ayush.1o_/?hl=en]</br> 
 
