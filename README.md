@@ -3,8 +3,6 @@
 💻 Proficient in Java, Python, C++, HTML and solving coding puzzles<br/>
 🎮 Gamer and avid coder<br/>
 📱 Not a content creator, but u can connect with me on [Insta:https://www.instagram.com/_ayush.1o_/?hl=en]</br> 
-
-💻Tech Stack:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayush.1o_) 
 
